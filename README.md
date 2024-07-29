@@ -23,8 +23,8 @@ Deploy the Contract:
 - After compilation, switch to the "Deploy & Run Transactions" tab in Remix. Select the ERCToken contract from the dropdown menu and deploy it.
 Once deployed, you can mint, burn, and transfer tokens.
 
-#Authors
+# Authors
 Jill Alday
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
